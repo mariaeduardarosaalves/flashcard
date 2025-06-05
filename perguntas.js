@@ -17,7 +17,39 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Português',
+    'Qual o sujeito da frase "O menino correu na rua',
+    'O menino'
 )
+
+criaCartao(
+    'Física',
+    'Qual é a velocidade da luz no vácuo',
+    '299.793.458 m/s'
+)
+
+criaCartao(
+    'Química',
+    'O que é uma substância pura',
+    'é um material com composição química fixa e uniforme, ou seja, é formada por apenas um tipo de átomo ou molécula'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é a célula?',
+    'unidade estrutural e funcional dos seres vivos'
+)
+
+criaCartao(
+    'Matemática',
+    '5! x 4!',
+    '2880'
+)
+
+criaCartao(
+    'História',
+    'Quando ocorreu a Revolução Francesa?',
+    '5 de maio de 1789'
+)
+
+
