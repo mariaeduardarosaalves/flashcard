@@ -52,4 +52,22 @@ criaCartao(
     '5 de maio de 1789'
 )
 
+criaCartao(
+    'Matemática 1',
+    'A soma de dois números é 25, e a diferença é 9. Quais são esses números?',
+    '17 e 8'
+)
+
+criaCartao(
+    'Projeto de vida',
+    'O que é um projeto de vida e qual a sua importância para o desenvolvimento humano? ',
+    'é um conjunto de objetivos, metas e planos que uma pessoa estabelece para a sua vida'
+)
+
+criaCartao(
+    'Robotica',
+    'O que é robotica?',
+    'A robótica é a ciência que estuda e desenvolve máquinas automatizadas, os robôs. '
+)
+
 
